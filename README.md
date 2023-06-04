@@ -1,4 +1,4 @@
-Hi 👋 My name is Phuttawat Kumhachai
+My name is Phuttawat Kumhachai
 ====================================
 
 Student
